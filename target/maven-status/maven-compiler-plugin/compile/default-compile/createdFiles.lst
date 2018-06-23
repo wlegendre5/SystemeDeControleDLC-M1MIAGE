@@ -1,0 +1,15 @@
+org/mindstorms/domain/lumiere/Lumiere.class
+org/mindstorms/domain/lumiere/Plafonnier.class
+org/mindstorms/domain/capteur/CaptLum.class
+org/mindstorms/domain/user/User.class
+org/mindstorms/domain/lumiere/SimulateurLum.class
+org/mindstorms/infrastructure/ConfigStandard.class
+org/mindstorms/domain/capteur/Capteur.class
+org/mindstorms/utils/Minuteur.class
+org/mindstorms/infrastructure/ConfigCour.class
+org/mindstorms/demo/App.class
+org/mindstorms/domain/lumiere/Interrupteur.class
+org/mindstorms/infrastructure/XMLParser.class
+org/mindstorms/domain/capteur/CaptMouv.class
+org/mindstorms/infrastructure/ConfigLum.class
+org/mindstorms/service/SysControlDLC.class

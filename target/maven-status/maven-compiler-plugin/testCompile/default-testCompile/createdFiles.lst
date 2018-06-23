@@ -1,0 +1,5 @@
+org/mindstorms/demo/AppTest.class
+org/mindstorms/service/ServiceTest.class
+org/mindstorms/domain/DomainTest.class
+org/mindstorms/infrastructure/InfraTest.class
+org/mindstorms/utils/UtilsTest.class
